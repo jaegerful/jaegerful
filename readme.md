@@ -4,7 +4,7 @@ I'm on a journey to become the best developer I can be.
 *fun facts about me:*
 - I love playing soccer, basketball, and *especially* chess ♟!
 - I graduated **Summa Cum Laude** from FHSU 🎓.
-- I'm big on faith, family and friends 🙏.
+- I'm very big on faith, family and friends 🙏.
 - my all-time favorite technologies: <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width = '20px' height = '20px'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width = '20px' height = '20px'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg' width = '20px' height = '20px'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' width = '20px' height = '20px'/>.
 
 *my biggest project is actually private, so here's a recap:*
